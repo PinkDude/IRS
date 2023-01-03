@@ -1,0 +1,14 @@
+﻿.header {
+  padding: 40px 112px;
+  text-align: right;
+}
+
+.bottomEllipse {
+  padding: 0px 112px;
+  height: 100px;
+  position: relative;
+}
+
+.content {
+  padding: 50px 50px 0px;
+}
